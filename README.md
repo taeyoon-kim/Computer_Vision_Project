@@ -1,7 +1,7 @@
 # Computer_Vision_Project
 
 ## Title ##
-- Video Stitching(실시간 비디오 스티칭 기술개발 - 어안카메라 영상의 실시간 스티칭을 통한 관측 시스템 구성)
+- Video Stitching(실시간 비디오 스티칭 기술 개발 - 어안카메라 영상의 실시간 스티칭을 통한 관측 시스템 구성)
 
 ## Using ##
 - Pycharm, Python
